@@ -1,5 +1,5 @@
 class Noeud:
-    """Ce code est fait pour classer puis pour casser les couilles et donc cordialement suce moi valeriia"""
+    """Ce code est fait pour classer puis pour faire ce que demande le tp"""
     OPERATEURS_BINAIRES = {
         "+": lambda a, b: a + b,
         "-": lambda a, b: a - b,
